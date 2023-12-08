@@ -69,7 +69,7 @@ body{
     top: 20%;
     left: 10%;
     width: 80%;
-    height: 80%;
+    height: 75%;
     background-color: #00ddff26;
 }
 
@@ -130,6 +130,7 @@ body{
     display: flex;
     align-items: center;
     margin-right: 20px; /* Adjust spacing between items as needed */
+    margin-bottom: -35px;
 }
 
 .submit-button{
@@ -139,7 +140,7 @@ body{
     border-radius: 5px;
     border-style: none;
     position: absolute;
-    top: 75%;
+    top: 80%;
     left: 732px;
     background-color: #005d6c;
 }
